@@ -1,4 +1,4 @@
-Technology used :       python 3.6 above
+Technology used :       python 3.6 above and
                         PyQt6
 
   
