@@ -11,5 +11,5 @@ Technology used :       python 3.6 above and
               the previous images.
                 
                 
- With both the files mainwindow2_ui and window2_ui present , Run the mainwindow2_ui file to obtain the result.
+ With both the files mainwindow2_ui and window2_ui present , Run the mainwindow2_ui file by providing the path of the folder where the images are stored to obtain the result.
 
